@@ -20,7 +20,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 console.log('\n=====================================');
-console.log('         BOT WHATSAPP DIMULAI        ');
+console.log('         BOT WHATSAPP Heatless 😜       ');
 console.log('=====================================\n');
 
 const PLUGINS_DIR = path.resolve(__dirname, "./command");
