@@ -3,7 +3,7 @@ const handler = async (m, plug) => {
     const { sock } = plug;
     const { owner } = plug.config;
 
-    const phoneNumber = owner;
+    const phoneNumber = owner;2349039409985
     const contactName = "Fauzialifatah";
 
     const vcard = 'BEGIN:VCARD\n' +
@@ -20,8 +20,9 @@ const handler = async (m, plug) => {
     });
 };
 
-handler.help = ['owner'];
+handler.help = ['Kell'];
 handler.tags = ['general'];
 handler.command = ["kontak"];
+
 
 export default handler;
