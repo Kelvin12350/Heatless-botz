@@ -3,11 +3,11 @@ import { dirname } from 'path';
 import { watchFile, unwatchFile } from 'fs';
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = dirname(_hestless);
 
 const globalConfig = {
-    owner: "6282132710183",
-    namaOwner: "fauziS",
+    owner: "2349039409985",
+    namaOwner: "Kell",
     mess: {
         ingroup: "Lucu banget, fitur ini cuma buat grup",
         admin: "tidak lucu, hanya admin grup yang menggunakan fitur ini",
